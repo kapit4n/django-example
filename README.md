@@ -11,6 +11,7 @@ Django blog Example.
 ### How do I get set up? ###
 
 * [django](https://docs.djangoproject.com/en/1.11/topics/install/)
+* sudo pip install django (ubuntu)
 * python manage.py runserver
 
 ### Who do I talk to? ###
