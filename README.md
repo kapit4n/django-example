@@ -1,6 +1,6 @@
 # README #
 
-Score board example.
+Django blog Example.
 
 ### What is this repository for? ###
 
